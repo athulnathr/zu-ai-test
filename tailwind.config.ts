@@ -18,7 +18,7 @@ const config: Config = {
       },
       colors: {
         purple:"#6947BF",
-        bgBlue:'#E5ECF3'
+        lightBlue:'#E5ECF3'
       },
     },
   },
